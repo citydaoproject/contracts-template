@@ -1,4 +1,4 @@
-# CHANGEME
+# CityDAO Contracts
 
 ## Setup
 
