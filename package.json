@@ -62,7 +62,7 @@
     "eslint": "8.28.0",
     "eslint-plugin-import": "2.26.0",
     "eslint-plugin-prettier": "4.2.1",
-    "ethereum-waffle": "3.4.4",
+    "ethereum-waffle": "4.0.10",
     "hardhat": "2.12.2",
     "husky": "8.0.2",
     "mocha": "10.1.0",
